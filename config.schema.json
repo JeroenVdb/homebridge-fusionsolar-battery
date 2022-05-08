@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "HomebridgeFusionsolarBattery",
   "pluginType": "platform",
   "singular": true,
   "schema": {
